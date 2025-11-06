@@ -1,0 +1,16 @@
+# TASK: Show first name, last name, and gender of patients whose gender is 'M'
+![Screenshot](https://exe.ua/wa-data/public/site/themes/supremekamedition/img/logo.png?v1553437723)
+## My solution
+
+```sql
+-- Approach: join orders with customers and aggregate totals
+SELECT ...
+sql
+Copy code
+```
+
+Або як коментар у коді:
+```sql dsa dasdsad sdasdasd sad ```
+-- My solution:
+SELECT ...
+<img src"https://exe.ua/wa-data/public/site/themes/supremekamedition/img/logo.png?v1553437723">
